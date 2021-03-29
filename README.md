@@ -1,3 +1,5 @@
+# Signed by Sakujes (https://github.com/Sakujes)
+
 # An open letter in support of RMS.
 
 To sign, **click [here](https://github.com/rms-support-letter/rms-support-letter.github.io/new/master/_data/signed)** and name the file `<username>.yaml` (replace `<username>` with your name) with the following content:
